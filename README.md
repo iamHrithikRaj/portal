@@ -1,0 +1,2 @@
+# Sine-Wave-Clipper
+A MATLAB Program to replicate the behaviour of a Clipper(read more: https://en.wikipedia.org/wiki/Clipper_(electronics)). The function accepts two arguments: a signal and a threshold.The function compares all the values of the input signal with the threshold and generte an output signal that is equal to the input signal,if the signal amplitude is greater than the threshold and equal to the threshold value,otherwise.The wave have follwing characteristics: 2 Hz sine wave of 1sec duration at 100 Hz sampling frequency.
