@@ -18,7 +18,7 @@ To quickly download, install, and build, run
 $ git clone https://github.com/iamHrithikRaj/portal.git && cd portal && cabal build && cabal install portal
 ```
 
-To use the `teleport` wrapper you will need, run 
+To use the `portal` wrapper you will need, run 
 
 ```bash
 $ echo source `pwd`/teleport.sh >> ~/.bashrc
