@@ -6,8 +6,7 @@
 # and passes it along to `portal-exe`
 # which is our tool
 function portal(){
-    cd $HOME/.cabal/bin
-    OUTPUT=`./portal-exe $@`
+    OUTPUT=`$HOME/.cabal/bin/portal-exe $@`
     # return code 2 tells the shell
     # script to cd to whatever `teleport` outputs
     if [ $? -eq 2 ]
