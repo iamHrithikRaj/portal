@@ -5,7 +5,7 @@
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/zqAt0wSlSfZFZPIAiTzJAbjse.svg)](https://asciinema.org/a/zqAt0wSlSfZFZPIAiTzJAbjse))
+[![asciicast](https://asciinema.org/a/zqAt0wSlSfZFZPIAiTzJAbjse.svg)](https://asciinema.org/a/zqAt0wSlSfZFZPIAiTzJAbjse)
 
 
 # Getting started
