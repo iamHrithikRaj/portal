@@ -21,7 +21,7 @@ $ git clone https://github.com/iamHrithikRaj/portal.git && cd portal && cabal bu
 To use the `portal` wrapper you will need, run 
 
 ```bash
-$ echo source `pwd`/teleport.sh >> ~/.bashrc
+$ echo source `pwd`/portal.sh >> ~/.bashrc
 ```
 
 change `~/.bashrc` to the correct shell needed
