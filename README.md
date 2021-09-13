@@ -1,4 +1,4 @@
-<img width="200px" height="200px" align="right" alt="portal logo" src="./assets/portal-logo1.png" title="portal"/>
+<img width="200px" height="200px" align="right" alt="portal logo" src="./assets/portal-logo.png" title="portal"/>
 
 # Portal
 ### A lightning-fast tool to quickly switch between repositories.
