@@ -1,7 +1,7 @@
 <img width="400px" align="right" alt="portal logo" src="./assets/new-portal-logo.png" title="portal"/>
 
 # Portal
-### A lightning-fast tool to quickly switch between repositories.
+### A lightning-fast tool to quickly switch between directories.
 
 <br>
 <br>
